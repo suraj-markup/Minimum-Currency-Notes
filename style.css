@@ -1,0 +1,165 @@
+.header{
+    top: 0;
+    position: relative;
+    width: 100%;
+    text-align:  center;
+    
+    color: #787DFF;
+    height: auto;
+    
+    background-color: black;
+}
+
+.form1{
+    position: relative;
+    top: 30%;
+}
+
+input{
+    height: 25px;
+    border: none;
+    position: relative;
+    width: 50%;
+    margin: 10px ;
+}
+
+h1{
+    position: relative;
+    top: 15%;
+    margin: 0%;
+}
+
+p{
+    margin: 0%;
+    text-align: center;
+}
+
+.child1{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    height:300px;
+    background-color: #DADBF1;
+
+}
+
+
+.details{
+    height: auto;
+    border: 1px solid black;
+   
+    position: relative; 
+    width: 30%;
+    left:35%;
+    background-color: white;
+    display: flex;
+    /* align-items: flex-start; */
+    justify-content: center;
+}
+
+.coinjpg{
+    
+    position: relative;
+    width:10%;
+    border-radius:50%;
+    
+}
+
+
+button{
+    border: none;
+    background-color: white;
+    }
+.child2{
+  
+    position: relative;
+    height: 900px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.table{
+    text-size-adjust: 5rem;
+    padding: 5px;
+    margin: 8px;
+    position: relative;
+    top: 10%;
+    display: flex;
+    width: 50%;
+    height: 3.5%;
+    align-items: center;
+    justify-content:space-around ;
+}
+
+.note{
+    border: solid 1px black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 8px;
+    position: relative;
+    top: 10%;
+    display: flex;
+    width: 50%;
+    height: 3.5%;
+    align-items: center;
+    justify-content:space-around ;
+
+}
+
+.image{
+    align-items: center;
+    width: 20%;
+}
+.coin{
+
+    border-radius: 50%; ;
+    width:80%;
+}
+
+.first{
+    padding:3px  ;
+    display: flex;
+    justify-content:space-around ;
+   
+    position: relative;
+    font-size: 1.5rem;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    
+    
+}
+
+.abc{
+    text-align: left;
+}
+.second {
+    position: relative;
+    font-size: 1.5rem;
+
+    width: 25%;
+    height: 100%;
+ 
+}
+
+
+.footer{
+    position: relative;
+    width: 100%;
+   
+    height: auto;
+    
+    color: white;
+    background-color: black;
+
+}
+
+.title{
+    border: none;
+    
+}
